@@ -99,5 +99,5 @@ Anyway the wind blows
 
 ![cat](cat.jpg)
 
-*Be aware! He is dangerous!
+* Be aware! He is dangerous!
 
