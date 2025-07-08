@@ -97,5 +97,7 @@ Anyway the wind blows
 
 # My nemesis
 
-![Be aware!](cat.jpg)
+![cat](cat.jpg)
+
+*Be aware! He is dangerous!
 
